@@ -155,11 +155,22 @@ class AboutDialog(QDialog):
         <ul>
             <li><b>inliver</b></li>
         </ul>
+                                
+        <h4>软件打包者：</h4>
+        <ul>
+            <li><b>GenOuka</b></li>
+        </ul>
         
-        <h4>联系方式：</h4>
+        <h4>inliver联系方式：</h4>
         <ul>
             <li>📧 邮箱: inliverapi@outlook.com</li>
             <li>📱 GitHub: https://github.com/inliver233</li>
+        </ul>
+                                
+        <h4>GenOuka联系方式：</h4>
+        <ul>
+            <li>📧 邮箱: genouka@163.com</li>
+            <li>📱 GitHub: https://github.com/genouka</li>
         </ul>
         """)
         layout.addWidget(developers_text)
